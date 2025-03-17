@@ -134,3 +134,14 @@ Build the project and deploy it on GitHub Pages:
 📞 Contact
 
 For queries and feedback, contact: [sham.machale0102@gmail.com or (https://github.com/Shammachale0102)]
+
+
+Screenshot
+
+![Weather App Screenshot](![Screenshot (18)](https://github.com/user-attachments/assets/0529d4ab-124c-4476-8640-b5c764a79fb7)
+)
+
+![Weather App Screenshot](![Screenshot (16)](https://github.com/user-attachments/assets/4bed8016-2b75-4236-93a7-dad88b0aec5f)
+)
+
+
