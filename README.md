@@ -133,4 +133,4 @@ Build the project and deploy it on GitHub Pages:
 
 📞 Contact
 
-For queries and feedback, contact: [sham.machale0102@gmail.com or ]
+For queries and feedback, contact: [sham.machale0102@gmail.com or (https://github.com/Shammachale0102)]
