@@ -1,0 +1,58 @@
+/* MainContent styling */
+.main-content {
+  background-color: #e99c9ce7;
+  border-radius: 12px;
+  box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  max-width: 350px;
+  margin: 20px auto;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
+
+.main-content h2 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.main-content img {
+  width: 80px;
+  height: 80px;
+}
+
+.main-content .temperature {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #333;
+}
+
+.main-content .condition {
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+}
+
+.main-content p {
+  margin: 5px 0;
+}
+
+.clear-button {
+  background-color: #1c0825;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-top: 15px;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.clear-button:hover {
+  background-color: #0056b3;
+}
+
+/* Responsive design */
+@media (max-width: 600px) {
+  .main-content {
+    width: 90%;
+  }
+}
