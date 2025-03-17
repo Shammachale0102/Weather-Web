@@ -144,4 +144,8 @@ Screenshot
 ![Weather App Screenshot](![Screenshot (16)](https://github.com/user-attachments/assets/4bed8016-2b75-4236-93a7-dad88b0aec5f)
 )
 
+![Weather App Screenshot](![Screenshot (19)](https://github.com/user-attachments/assets/37509ffb-5eb7-4646-827e-8cc17567132e)
+)
+
+
 
