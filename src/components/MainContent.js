@@ -2,9 +2,8 @@ import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import './MainContent.css';
 
-
-const API_KEY = '8eaeee7574a24b5d94962655251403';
-const BASE_URL = 'http://api.weatherapi.com/v1/current.json';
+const API_KEY = process.env.REACT_APP_API_KEY || '8eaeee7574a24b5d94962655251403';
+const BASE_URL = 'https://api.weatherapi.com/v1/current.json';
 
 const MainContent = ({ city, onClear }) => {
   const [weather, setWeather] = useState(null);
